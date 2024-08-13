@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sarafkushagra
-- 👀 I’m interested in creating new things
-- 🌱 I’m currently learning C , html 
-- 💞️ I’m looking to collaborate on projects which have main usage of c
-- 📫 How to reach me instagram , twitter , linkedin.
+- 👀 I’m interested in creating compatiable userinterface
+- 🌱 I’m currently learning React,Java
+- 💞️ I’m looking to collaborate on projects related to web development
+- 📫 We can reach through instagram , twitter , linkedin.
 
 <!---
 sarafkushagra/sarafkushagra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
